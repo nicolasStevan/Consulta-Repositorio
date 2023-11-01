@@ -1,9 +1,7 @@
 
-# Consulta de Repositorios atráves da API do GITHUB
+# Consulta de Repositórios através da API do GITHUB
 
-Basicamente vc irá inserir seu nome de usuario do github, e a aplicação irá retornar os dados dos seus repositorios e a descrição.
-
-
+Basicamente você irá inserir seu nome de usuário do github, e a aplicação irá retornar os dados dos seus repositórios e a descrição.
 
 
 ## Documentação da API
@@ -18,18 +16,18 @@ Basicamente vc irá inserir seu nome de usuario do github, e a aplicação irá 
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `username`      | `string` | **Obrigatório**. passar seu nome de usuario do github |
+| `username`      | `string` | **Obrigatório**. passar seu nome de usuário do github |
 
 
 
 
 ## Demonstração
 
-Logo apos inserir isso no postman, provavelmente irá ficar pendente, 
+Logo após inserir isso no postman, provavelmente irá ficar pendente, 
 
 ![Postman](https://cdn.discordapp.com/attachments/910358683110760468/1169272738192568330/image.png?ex=6554cd18&is=65425818&hm=092460395be020666960aaafda81210373c5aecf02ee67247f778f23d3cb772e&)
 
-## Clicando no githubService e parando a aplicação na sua IDE, ele irá retornar todos os dados de repositorio do seu usuario como Json no postman.
+## Clicando no githubService e parando a aplicação na sua IDE, ele irá retornar todos os dados de repositório do seu usuário como Json no postman.
 
 ![IDE](https://cdn.discordapp.com/attachments/910358683110760468/1169273131362439288/image.png?ex=6554cd76&is=65425876&hm=cc06aa5f107bcf562a48d1e79c0d6679290e2836511195eb9359e630486a9213&) 
 
@@ -41,7 +39,7 @@ Logo apos inserir isso no postman, provavelmente irá ficar pendente,
 
 ## Stack utilizada
 
-**Front-end:** React, Reactstrapp, Axios
+**Front-end:** React, Reactstrap, Axios
 
 **Back-end:** Java, Springboot
 
