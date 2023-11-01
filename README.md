@@ -1,5 +1,5 @@
 
-# Consulta de Repositórios através da API do GITHUB
+# Consulta de Repositórios através da API do GITHUB Desafio Tecnico na Selectbr
 
 Basicamente você irá inserir seu nome de usuário do github, e a aplicação irá retornar os dados dos seus repositórios e a descrição.
 
